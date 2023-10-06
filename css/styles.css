@@ -276,18 +276,14 @@ h1, h2, h3, h4, h5, h6, p{
     color: #4d5ae5;
     text-transform: uppercase;
     letter-spacing: 0.03em;
-}
-
-.footer-logo link {
     display: inline-block;
+    margin-bottom: 16px;
 }
 
 .footer .text {
     color:#f4f4fd;
     width: 264px;
-    margin-top: 16px;
 }
-
 
 .accent-footer {
     color: #f4f4fd;
